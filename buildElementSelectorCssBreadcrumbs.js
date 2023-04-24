@@ -1,10 +1,8 @@
 /*
  * @Example of result:
  *
- 0: ".container-fluid .row"
- 1: ".container-fluid .row .col-md-12 .conteiner-fluid .row"
- */
-/**
+ * 0: ".container-fluid .row"
+ * 1: ".container-fluid .row .col-md-12 .conteiner-fluid .row"
  *
  * @param selector
  * @returns {*[]}
